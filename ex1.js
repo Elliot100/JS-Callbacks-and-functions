@@ -14,4 +14,4 @@ function hammerTime(time) {
   }, 5000);
 }
 
-// hammerTime(10);
+hammerTime(10);
